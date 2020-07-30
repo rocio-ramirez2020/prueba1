@@ -9,8 +9,8 @@ Los titulos de los libros podrian ser:
 3- Mastercalculando
 4-Calculo de estructuras de Hormigon
 
---- esta prueba la hago en la rama MASTER, para poder generar un error-----
-************************************************************************************
+--- esta prueba la hago en la rama MASTER, para poder generar un error----
+**************************************************
 
 
 
